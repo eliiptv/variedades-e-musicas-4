@@ -1,0 +1,139 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE 1 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112155742-canal-arte-1.png" group-title="CANAIS CULTURA",ARTE 1 HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10235
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE 1 SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112155742-canal-arte-1.png" group-title="CANAIS CULTURA",ARTE 1 SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7904
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE 1 SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112155742-canal-arte-1.png" group-title="CANAIS CULTURA",ARTE 1 SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20880
+#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Aljazeera-logo-English-1024x768.png" group-title="CANAIS ENTRETENIMENTO",ALJAZEERA HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7550
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="CANAIS MUSICAS",BIS FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/11547
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="CANAIS MUSICAS",BIS HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6881
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="CANAIS MUSICAS",BIS HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20866
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="CANAIS MUSICAS",BIS SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6964
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="CANAIS MUSICAS",BIS SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20868
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="BLOOMBERG TV SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/blobemg.png" group-title="CANAIS ENTRETENIMENTO",BLOOMBERG TV SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7424
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/2000px-Logo_of_Curta.svg_.png" group-title="CANAIS CULTURA",CURTA! SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10291
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/2000px-Logo_of_Curta.svg_.png" group-title="CANAIS CULTURA",CURTA SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20826
+#EXTINF:-1 tvg-id="E!" tvg-name="E! HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/E.png" group-title="CANAIS ESPORTES",E! HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10285
+#EXTINF:-1 tvg-id="E!" tvg-name="E! HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/E.png" group-title="CANAIS ENTRETENIMENTO",E! HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20788
+#EXTINF:-1 tvg-id="E!" tvg-name="E! SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/E.png" group-title="CANAIS ENTRETENIMENTO",E! SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4382
+#EXTINF:-1 tvg-id="E!" tvg-name="E! SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/E.png" group-title="CANAIS ENTRETENIMENTO",E! SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20789
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="FISH TV SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fish-Tv.png" group-title="CANAIS ESPORTES",FISH TV SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4377
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="FISH TV SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fish-Tv.png" group-title="CANAIS ESPORTES",FISH TV SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20773
+#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/13196
+#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7534
+#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20756
+#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6959
+#EXTINF:-1 tvg-id="Food Network" tvg-name="FOOD NETWORK SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png" group-title="CANAIS ENTRETENIMENTO",FOOD NETWORK SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20757
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gnt.png" group-title="CANAIS ENTRETENIMENTO",GNT HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6956
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gnt.png" group-title="CANAIS ENTRETENIMENTO",GNT HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20752
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gnt.png" group-title="CANAIS ENTRETENIMENTO",GNT SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4368
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gnt.png" group-title="CANAIS ENTRETENIMENTO",GNT SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20751
+#EXTINF:-1 tvg-id="Ideal TV" tvg-name="IDEAL TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ideal_TV_logo.svg/200px-Ideal_TV_logo.svg.png" group-title="CANAIS CULTURA",IDEAL TV SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20674
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/unnamed.png" group-title="CANAIS ENTRETENIMENTO",LIFETIME FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/11540
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/unnamed.png" group-title="CANAIS ENTRETENIMENTO",LIFETIME HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7525
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/unnamed.png" group-title="CANAIS ENTRETENIMENTO",LIFETIME HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20668
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/unnamed.png" group-title="CANAIS ENTRETENIMENTO",LIFETIME SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7876
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/unnamed.png" group-title="CANAIS ENTRETENIMENTO",LIFETIME SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20670
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/masiglobosat.png" group-title="CANAIS ENTRETENIMENTO",MAIS GLOBOSAT HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/9262
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/masiglobosat.png" group-title="CANAIS ENTRETENIMENTO",MAIS GLOBOSAT HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20665
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/masiglobosat.png" group-title="CANAIS ENTRETENIMENTO",MAIS GLOBOSAT SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6953
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="MAIS GLOBOSAT SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/masiglobosat.png" group-title="CANAIS ENTRETENIMENTO",MAIS GLOBOSAT SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20666
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/mtv.png" group-title="CANAIS MUSICAS",MTV FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/11573
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/mtv.png" group-title="CANAIS MUSICAS",MTV HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7524
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/mtv.png" group-title="CANAIS MUSICAS",MTV HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20644
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/mtv.png" group-title="CANAIS MUSICAS",MTV SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4353
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/mtv.png" group-title="CANAIS MUSICAS",MTV SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20646
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png" group-title="CANAIS MUSICAS",MULTISHOW FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/13201
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png" group-title="CANAIS MUSICAS",MULTISHOW HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6867
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png" group-title="CANAIS MUSICAS",MULTISHOW HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20648
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png" group-title="CANAIS MUSICAS",MULTISHOW SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4352
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png" group-title="CANAIS MUSICAS",MULTISHOW SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20650
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRASIL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/MusicBoxBrazilLogo.png" group-title="CANAIS MUSICAS",MUSIC BOX BRASIL SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7848
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRASIL SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/MusicBoxBrazilLogo.png" group-title="CANAIS MUSICAS",MUSIC BOX BRASIL SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20655
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/primebox.png" group-title="CANAIS MUSICAS",PRIME BOX BRAZIL SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4332
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRASIL SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/primebox.png" group-title="CANAIS MUSICAS",PRIME BOX BRASIL SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20587
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/canaloff.png" group-title="CANAIS ESPORTES",OFF FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/9152
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/canaloff.png" group-title="CANAIS ESPORTES",OFF HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6947
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/canaloff.png" group-title="CANAIS ESPORTES",OFF HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20622
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/canaloff.png" group-title="CANAIS ESPORTES",OFF SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4344
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/canaloff.png" group-title="CANAIS ESPORTES",OFF SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20623
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo_TLC.svg_.png" group-title="CANAIS ENTRETENIMENTO",TLC SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4313
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo_TLC.svg_.png" group-title="CANAIS ENTRETENIMENTO",TLC HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24786
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo_TLC.svg_.png" group-title="CANAIS ENTRETENIMENTO",TLC SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20520
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TRUTV SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/trutv.png" group-title="CANAIS ENTRETENIMENTO",TRUTV SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6935
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 MEGA HITS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/vh1hd.png" group-title="CANAIS MUSICAS",VH1 MEGA HITS HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10361
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 MEGA HITS SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/vh1hd.png" group-title="CANAIS MUSICAS",VH1 MEGA HITS SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20459
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 MEGA HITS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/vh1hd.png" group-title="CANAIS MUSICAS",VH1 MEGA HITS SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10243
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/viva.png" group-title="CANAIS ENTRETENIMENTO",VIVA HD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6848
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/viva.png" group-title="CANAIS ENTRETENIMENTO",VIVA HD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20460
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/viva.png" group-title="CANAIS ENTRETENIMENTO",VIVA SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6928
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/viva.png" group-title="CANAIS ENTRETENIMENTO",VIVA SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20461
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/woohoo.png" group-title="CANAIS ENTRETENIMENTO",WOOHOO SD*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20453
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/woohoo.png" group-title="CANAIS ENTRETENIMENTO",WOOHOO SD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4306
